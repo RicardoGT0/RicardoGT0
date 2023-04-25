@@ -41,9 +41,6 @@
   <td>
     <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextJs" width="100px" height="100px"/>
   </td>
-   <td>
-    <img src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4" alt="chakraUI" width="100px" height="100px"/>
-  </td>
   </tr>
   
    <tr>
@@ -67,17 +64,5 @@
 </table>
 
 
-
-<h3>Otras herramientas... </h3>
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo.png" alt="photoshop" width="100px" height="100px"/>
-    </td>
-    <td>
-      <img src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo-0.png" alt="figma" width="100px" height="100px"/>
-    </td>
-  </tr>
-</table>
 
 <!--EMOJIS QUE QUIZAS PUEDA LLEGAR A UTILIZAR 💠❌🎶🔴🟠🟡🟢🔵🟣⚫⚪🟤🔸🔹🔷🔲🔳🇦🇷🏕️⛺🎮🎸🐶🐎🦁😎🤩🥳😂😃👾🤖🙌🤝-->
