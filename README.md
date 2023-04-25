@@ -38,9 +38,6 @@
   <td>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="100px" height="100px"/>
   </td>
-  <td>
-    <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextJs" width="100px" height="100px"/>
-  </td>
   </tr>
   
    <tr>
