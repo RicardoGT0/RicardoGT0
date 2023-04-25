@@ -11,6 +11,7 @@
 
 <h2>🌐 Sobre mi...</h2>
 <p
+   <br>
   Soy un desarrollador con experiencia en el uso de herramientas como Python, Pandas, Matplotlib, Tkinter y grafos, entre otras. Uno de mis proyectos más destacados es la creación de un algoritmo para identificar actividades frecuentes en una computadora a partir de una metodología de aprendizaje no supervisado. También he utilizado el algoritmo Monte Carlo Tree Search (MCTS) como metaheurística y he desarrollado una app para la gestión de un estacionamiento que funciona con tarjetas RFID.
   <br/>
   Además de mi educación formal en IPN, donde obtuve mi licenciatura y maestría en tecnologías de cómputo, también he asistido a congresos y publicado artículos. Mis habilidades incluyen el uso de herramientas de software como Windows, Linux, MS Office, PyCharm, Visual Studio Code, Aspel SAE, PostgreSQL, React, Express y Node. He trabajado como soporte técnico en MS Windows y MS Office, instalación y configuración de redes LAN, y he brindado asesorías privadas de programación.
