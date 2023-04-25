@@ -4,8 +4,8 @@
 
 <hr>
 
-<h3 align="center">Ey! Hola 👋</h3>
-<h1 align="center">Soy Matias Vazquez 😃</h1>
+
+<h1 align="center">Saludos, soy Ricardo Gonz\'alez</h1>
 
 <hr>
 
