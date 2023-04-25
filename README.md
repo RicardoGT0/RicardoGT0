@@ -10,15 +10,14 @@
 <hr>
 
 <h2>🌐 Sobre mi...</h2>
-<p>Actualmente tengo 21 años de edad, estudiante en Ingeniería en Sistemas, y también, logrando cumplir mi primera meta, ser DESARROLLADOR FULLSTACK.
+<p
+  Soy un desarrollador con experiencia en el uso de herramientas como Python, Pandas, Matplotlib, Tkinter y grafos, entre otras. Uno de mis proyectos más destacados es la creación de un algoritmo para identificar actividades frecuentes en una computadora a partir de una metodología de aprendizaje no supervisado. También he utilizado el algoritmo Monte Carlo Tree Search (MCTS) como metaheurística y he desarrollado una app para la gestión de un estacionamiento que funciona con tarjetas RFID.
   <br/>
-  Desde hace unos años, he pasado y sigo pasando por muchos momentos difíciles, han habido muchos obstáculos y grandes desafíos, pero a pesar de las caidas, siempre busco levantarme con mucho optimismo y esfuerzo, con el fin de poder cumplir mis proyectos y metas.
-  <br/>
-  Me encanta la programación, hace varios años atrás comencé de forma autodidacta con la programación, pero me sentía estancado, sin saber si iba por el camino correcto del aprendizaje, y unos años más tarde, hasta la actualidad, se me presentó la oportunidad nuevamente para cumplir esa meta.
+  Además de mi educación formal en IPN, donde obtuve mi licenciatura y maestría en tecnologías de cómputo, también he asistido a congresos y publicado artículos. Mis habilidades incluyen el uso de herramientas de software como Windows, Linux, MS Office, PyCharm, Visual Studio Code, Aspel SAE, PostgreSQL, React, Express y Node. He trabajado como soporte técnico en MS Windows y MS Office, instalación y configuración de redes LAN, y he brindado asesorías privadas de programación.
 </p>
 
 <h2>🌐 Que hago? </h2>
-<p>Actualmente estoy trabajando en proyectos pequeños, investigando, estudiando, aprendiendo día a día para mejorar mis habilidades y conocimientos para poder brindar mis servicios de la mejor manera.</p>
+<p>Actualmente estoy trabajando en proyectos pequeños, investigando, estudiando día a día para mejorar mis habilidades y conocimientos para poder brindar mis servicios de la mejor manera.</p>
 
 <h2>🌐 Tecnologías </h2>
 <p>Actualmente estoy usando / aprendiendo, las siguientes tecnologías...<br/></p>
@@ -66,9 +65,7 @@
   
 </table>
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
-</div>
+
 
 <h3>Otras herramientas... </h3>
 <table align="center">
