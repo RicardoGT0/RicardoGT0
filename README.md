@@ -5,7 +5,7 @@
 <hr>
 
 
-<h1 align="center">Saludos, soy Ricardo Gonz\'alez</h1>
+<h1 align="center">Saludos, soy Ricardo González</h1>
 
 <hr>
 
