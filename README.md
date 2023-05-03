@@ -47,6 +47,10 @@
    
    
    <tr>
+   </tr>
+   
+   
+   <tr>
      <td>
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html" width="100px" height="100px"/>
   </td>
