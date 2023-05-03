@@ -37,7 +37,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="100px" height="100px"/>
   </td>
    <td>
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/python_original_logo_icon_146381.png" alt="nodeJs" width="100px" height="100px"/>
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_logo_icon_168886.png" alt="python" width="100px" height="100px"/>
   </td>
   </tr>
   
