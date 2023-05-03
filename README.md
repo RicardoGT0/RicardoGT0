@@ -24,39 +24,43 @@
 <table align="center">
   
   <tr>
-   <td>
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html" width="100px" height="100px"/>
+     <td>
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html" width="100px" height="100px"/>
   </td>
    <td>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" alt="css" width="100px" height="100px"/>
-  </td>
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="100px" height="100px"/>
+  </td>     
+      <td>
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="redux" width="100px" height="100px"/>
+  </td>   
    <td>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="100px" height="100px"/>
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sequelizejs_logo_icon_170747.png" alt="sequelize" width="100px" height="100px"/>
   </td>
-  <td>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="100px" height="100px"/>
-  </td>
+        
    <td>
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_logo_icon_168886.png" alt="python" width="100px" height="100px"/>
   </td>
   </tr>
   
+   
    <tr>
-   <td>
-    <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="nodeJs" width="100px" height="100px"/>
+      <td>
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" alt="posgresql" width="100px" height="100px"/>
   </td>
-   <td>
-    <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodeJs" width="100px" height="100px"/>
+       <td>
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="expressjs" width="100px" height="100px"/>
   </td>
-   <td>
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" alt="nodeJs" width="100px" height="100px"/>
+       <td>
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="100px" height="100px"/>
   </td>
-   <td>
-    <img src="https://hyunseob.github.io/images/sequelizejs.png" alt="nodeJs" width="100px" height="100px"/>
+      <td>
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nodejs_logo_icon_169910.png" alt="nodeJs" width="100px" height="100px"/>
   </td>
-   <td>
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="nodeJs" width="100px" height="100px"/>
+       <td>
+    <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/pandas_logo_icon_248897.png" alt="pandas" width="100px" height="100px"/>
   </td>
+  
+  
   </tr>
   
 </table>
