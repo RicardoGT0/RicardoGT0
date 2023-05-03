@@ -23,24 +23,9 @@
 
 <table align="center">
   
-  <tr>
-     <td>
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html" width="100px" height="100px"/>
-  </td>
-   <td>
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="100px" height="100px"/>
-  </td>     
-      <td>
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="redux" width="100px" height="100px"/>
-  </td>   
-   <td>
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sequelizejs_logo_icon_170747.png" alt="sequelize" width="100px" height="100px"/>
-  </td>
-       <td>
-    <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/pandas_logo_icon_248897.png" alt="pandas" width="100px" height="100px"/>
-  </td>   
-  </tr>
   
+  <tr>
+   </tr>
    
    <tr>
       <td>
@@ -58,6 +43,25 @@
       <td>
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_logo_icon_168886.png" alt="python" width="100px" height="100px"/>
   </td>  
+  </tr>
+   
+   
+   <tr>
+     <td>
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html" width="100px" height="100px"/>
+  </td>
+   <td>
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="100px" height="100px"/>
+  </td>     
+      <td>
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="redux" width="100px" height="100px"/>
+  </td>   
+   <td>
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sequelizejs_logo_icon_170747.png" alt="sequelize" width="100px" height="100px"/>
+  </td>
+       <td>
+    <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/pandas_logo_icon_248897.png" alt="pandas" width="100px" height="100px"/>
+  </td>   
   </tr>
   
 </table>
