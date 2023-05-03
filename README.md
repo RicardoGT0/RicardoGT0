@@ -36,10 +36,9 @@
    <td>
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sequelizejs_logo_icon_170747.png" alt="sequelize" width="100px" height="100px"/>
   </td>
-        
-   <td>
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_logo_icon_168886.png" alt="python" width="100px" height="100px"/>
-  </td>
+       <td>
+    <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/pandas_logo_icon_248897.png" alt="pandas" width="100px" height="100px"/>
+  </td>   
   </tr>
   
    
@@ -56,11 +55,9 @@
       <td>
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nodejs_logo_icon_169910.png" alt="nodeJs" width="100px" height="100px"/>
   </td>
-       <td>
-    <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/pandas_logo_icon_248897.png" alt="pandas" width="100px" height="100px"/>
-  </td>
-  
-  
+      <td>
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_logo_icon_168886.png" alt="python" width="100px" height="100px"/>
+  </td>  
   </tr>
   
 </table>
