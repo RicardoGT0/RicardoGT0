@@ -2,8 +2,8 @@
 
 <h1 align="center">Saludos, soy Ricardo González Tello</h1>
 
-<p align="left"> <b>E‑mail:</b> rgonzaleztello@live.com.mx  </p>
-<p align="left"> <b>Celular:</b> (+52) 55-2428-6260 </p>
+<p align="end"> <b>E‑mail:</b> rgonzaleztello@live.com.mx  </p>
+<p align="end"> <b>Celular:</b> (+52) 55-2428-6260 </p>
 
 ---
 
