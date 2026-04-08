@@ -1,13 +1,9 @@
-![logo](https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L25zMTA1NTQtaW1hZ2Uta3d2d3F4aDkuanBn.jpg)
-
 ---
 
 <h1 align="center">Saludos, soy Ricardo González Tello</h1>
 
-<p> **GitHub:** https://github.com/RicardoGT0  </p>
-
-**E‑mail:** rgonzaleztello@live.com.mx  
-**Celular:** (+52) 55-2428-6260
+<p align="left"> <b>E‑mail:</b> rgonzaleztello@live.com.mx  </p>
+<p align="left"> <b>Celular:</b> (+52) 55-2428-6260 </p>
 
 ---
 
