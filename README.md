@@ -64,7 +64,7 @@ Actualmente trabajo en **proyectos front‑end (Angular) y back‑end (NestJS)**
 
    <tr>
      <td>
-        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vuejs_logo_icon_146365.png" alt="vue" width="100px" height="100px"/>
+        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" alt="vue" width="100px" height="100px"/>
      </td>
      <td>
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nuxtjs_logo_icon_170906.png" alt="nuxt" width="100px" height="100px"/>
