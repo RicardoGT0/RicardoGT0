@@ -1,41 +1,23 @@
-![logo](https://upload.wikimedia.org/wikipedia/commons/c/c7/Saturn_during_Equinox.jpg)
+![logo](https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L25zMTA1NTQtaW1hZ2Uta3d2d3F4aDkuanBn.jpg)
 
-<hr>
+---
 
 <h1 align="center">Saludos, soy Ricardo González Tello</h1>
 
-<hr>
+<p> **GitHub:** https://github.com/RicardoGT0  </p>
+
+**E‑mail:** rgonzaleztello@live.com.mx  
+**Celular:** (+52) 55-2428-6260
+
+---
 
 ### 🌐 Sobre mí
 Soy **desarrollador Fullstack y de Machine Learning** con experiencia en **Vue 2/3, Nuxt 2/3, React, Angular, Node.js y Python**. Me especializo en **migraciones tecnológicas, optimización de rendimiento y mantenimiento de aplicaciones web**. He trabajado en proyectos para los sectores **financiero y asegurador**, realizando análisis de código legado y desarrollando soluciones escalables.
 
-> "Desarrollador Front‑End con amplia experiencia en Vue (2 y 3), Nuxt (2 y 3), Angular, React y JavaScript, enfocado en la optimización de rendimiento, migraciones tecnológicas y mantenimiento de aplicaciones web."  
-> "He participado en proyectos para los sectores financiero y asegurador, colaborando en análisis de código legado y desarrollo de soluciones escalables con buenas prácticas de arquitectura y experiencia de usuario."
-
 ---
 
 ### 🌐 Qué hago
-Trabajo en **proyectos front‑end y back‑end**, migraciones (Nuxt2 → Nuxt3, Nuxt2 → Vue3), optimización de rendimiento y prototipos de análisis de datos en Python.
-
----
-
-### 🌐 Tecnologías dominadas
-<table align="center">
-  <tr>
-    <td><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="React" width="80" height="80"/><br/><b>React</b></td>
-    <td><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vuejs_logo_icon_146365.png" alt="Vue" width="80" height="80"/><br/><b>Vue / Nuxt</b></td>
-    <td><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nodejs_logo_icon_169910.png" alt="Node" width="80" height="80"/><br/><b>Node.js / Express</b></td>
-    <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" alt="Postgres" width="80" height="80"/><br/><b>PostgreSQL / Sequelize</b></td>
-    <td><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_logo_icon_168886.png" alt="Python" width="80" height="80"/><br/><b>Python / Pandas</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="Redux" width="80" height="80"/><br/><b>Redux / Pinia</b></td>
-    <td><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="HTML" width="60" height="60"/><br/><b>HTML / CSS</b></td>
-    <td><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS" width="60" height="60"/><br/><b>Tailwind / Bootstrap</b></td>
-    <td><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sequelizejs_logo_icon_170747.png" alt="Sequelize" width="80" height="80"/><br/><b>Sequelize</b></td>
-    <td><img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/pandas_logo_icon_248897.png" alt="Pandas" width="80" height="80"/><br/><b>Matplotlib / Tkinter</b></td>
-  </tr>
-</table>
+Actualmente trabajo en **proyectos front‑end (Angular) y back‑end (NestJS)** personales.
 
 ---
 
@@ -51,8 +33,81 @@ Trabajo en **proyectos front‑end y back‑end**, migraciones (Nuxt2 → Nuxt3,
 **Ingeniería en Computación** — IPN  
 **Bootcamp Fullstack** — Henry
 
-**GitHub:** https://github.com/RicardoGT0  
-**E‑mail:** rgonzaleztello@live.com.mx  
-**Celular:** (+52) 55-2428-6260
+---
+
+### 🌐 Tecnologías dominadas
+<table align="center">
+
+   <tr>
+   </tr>
+
+   <tr>
+      <td>
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" alt="posgresql" width="100px" height="100px"/>
+      </td>
+      <td>
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="expressjs" width="100px" height="100px"/>
+      </td>
+      <td>
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="100px" height="100px"/>
+      </td>
+      <td>
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nodejs_logo_icon_169910.png" alt="nodeJs" width="100px" height="100px"/>
+      </td>
+      <td>
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_logo_icon_168886.png" alt="python" width="100px" height="100px"/>
+      </td>  
+  </tr>
+
+
+  
+  <tr>
+   </tr>
+   
+   
+
+   <tr>
+     <td>
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vuejs_logo_icon_146365.png" alt="vue" width="100px" height="100px"/>
+     </td>
+     <td>
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nuxtjs_logo_icon_170906.png" alt="nuxt" width="100px" height="100px"/>
+     </td>   
+     <td>
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sequelizejs_logo_icon_170747.png" alt="sequelize" width="100px" height="100px"/>
+     </td>
+     <td>
+       <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png" alt="angular" width="100px" height="100px"/>
+     </td>     
+    <td>
+        <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/pandas_logo_icon_248897.png" alt="pandas" width="100px" height="100px"/>
+    </td>   
+  </tr>
+
+
+   <tr>
+   </tr>
+   
+   
+   <tr>
+     <td>
+       <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html" width="100px" height="100px"/>
+     </td>
+     <td>
+       <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="100px" height="100px"/>
+     </td>     
+     <td>
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="redux" width="100px" height="100px"/>
+     </td>   
+     <td>
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sequelizejs_logo_icon_170747.png" alt="sequelize" width="100px" height="100px"/>
+    </td>
+    <td>
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/markdown_here_logo_icon_169967.png" alt="markdown" width="100px" height="100px"/>
+    </td>   
+  </tr>
+
+
+</table>
 
 ---
