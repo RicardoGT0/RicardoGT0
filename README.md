@@ -24,7 +24,7 @@ Actualmente trabajo en **proyectos front‑end (Angular) y back‑end (NestJS)**
 
 ---
 
-### Educación y contactos
+### Educación
 **Maestría en Tecnologías de Cómputo** — IPN  
 **Ingeniería en Computación** — IPN  
 **Bootcamp Fullstack** — Henry
